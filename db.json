@@ -38,13 +38,5 @@
        "state" : "tamilnadu", 
        "image": "logo"
       }
-     },
-     {"6" : 
-      { "name" : "elakya" , 
-       "title" : "elakya", 
-       "city" : "tirupur", 
-       "state" : "tamilnadu", 
-       "image": "logo"
-      }
      }
 ]
